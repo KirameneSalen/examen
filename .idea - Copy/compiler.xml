@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Examen" target="18" />
+      <module name="Examen.Client" target="18" />
+      <module name="Examen.Client.main" target="18" />
+      <module name="Examen.Client.test" target="18" />
+      <module name="Examen.main" target="18" />
+      <module name="Examen.Model" target="18" />
+      <module name="Examen.Model.main" target="18" />
+      <module name="Examen.Model.test" target="18" />
+      <module name="Examen.Networking" target="18" />
+      <module name="Examen.Networking.main" target="18" />
+      <module name="Examen.Networking.test" target="18" />
+      <module name="Examen.Persistence" target="18" />
+      <module name="Examen.Persistence.main" target="18" />
+      <module name="Examen.Persistence.test" target="18" />
+      <module name="Examen.RestServices" target="18" />
+      <module name="Examen.RestServices.main" target="18" />
+      <module name="Examen.RestServices.test" target="18" />
+      <module name="Examen.Server" target="18" />
+      <module name="Examen.Server.main" target="18" />
+      <module name="Examen.Server.test" target="18" />
+      <module name="Examen.Services" target="18" />
+      <module name="Examen.Services.main" target="18" />
+      <module name="Examen.Services.test" target="18" />
+      <module name="Examen.test" target="18" />
+      <module name="Model" target="18" />
+      <module name="Model.main" target="18" />
+      <module name="Model.test" target="18" />
+      <module name="Persistence" target="18" />
+      <module name="Persistence.main" target="18" />
+      <module name="Persistence.test" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Examen.Persistence" options="-parameters" />
+      <module name="Examen.Persistence.main" options="-parameters" />
+      <module name="Examen.Persistence.test" options="-parameters" />
+    </option>
+  </component>
+</project>

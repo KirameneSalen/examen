@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Examen.iml" filepath="$PROJECT_DIR$/Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/Examen.Client.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/Examen.Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/Examen.Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/Examen.Client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client/Examen.Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client/Examen.Client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/Examen.Model.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/Examen.Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/Examen.Model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/Examen.Model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model/Examen.Model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Model/Examen.Model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/Examen.Networking.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/Examen.Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/Examen.Networking.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/Examen.Networking.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Networking/Examen.Networking.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Networking/Examen.Networking.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/Examen.Persistence.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/Examen.Persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/Examen.Persistence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/Examen.Persistence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence/Examen.Persistence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence/Examen.Persistence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestServices/Examen.RestServices.iml" filepath="$PROJECT_DIR$/.idea/modules/RestServices/Examen.RestServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestServices/Examen.RestServices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RestServices/Examen.RestServices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestServices/Examen.RestServices.test.iml" filepath="$PROJECT_DIR$/.idea/modules/RestServices/Examen.RestServices.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/Examen.Server.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/Examen.Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/Examen.Server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/Examen.Server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server/Examen.Server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Server/Examen.Server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/Examen.Services.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/Examen.Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/Examen.Services.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/Examen.Services.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Services/Examen.Services.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Services/Examen.Services.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Examen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Examen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Examen.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Examen.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/examen.iml" filepath="$PROJECT_DIR$/.idea/examen.iml" />
+    </modules>
+  </component>
+</project>
