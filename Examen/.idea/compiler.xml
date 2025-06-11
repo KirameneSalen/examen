@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="18" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Examen.Persistence" options="-parameters" />
+      <module name="Examen.Persistence.main" options="-parameters" />
+      <module name="Examen.Persistence.test" options="-parameters" />
+      <module name="Examen.RestServices" options="-parameters" />
+      <module name="Examen.RestServices.main" options="-parameters" />
+      <module name="Examen.RestServices.test" options="-parameters" />
+    </option>
+  </component>
+</project>
